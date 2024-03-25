@@ -16,5 +16,5 @@ async function updateCounter() {
     counter.innerHTML = "Views: unavailable";
   }
 }
-
+// 123
 updateCounter();
